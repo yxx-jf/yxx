@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as l,a as n}from"./app.f7b0898d.js";const C=JSON.parse('{"title":"引入方式（四种）","description":"","frontmatter":{},"headers":[],"relativePath":"css/css层叠样式表/引入方式（四种）.md"}'),p={name:"css/css层叠样式表/引入方式（四种）.md"},o=n("",8),t=[o];function e(c,r,i,D,F,y){return l(),a("div",null,t)}const u=s(p,[["render",e]]);export{C as __pageData,u as default};

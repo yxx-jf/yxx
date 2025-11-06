@@ -1,6 +1,0 @@
-import{_ as s,c as a,o as n,a as e}from"./app.f7b0898d.js";const A=JSON.parse('{"title":"语法","description":"","frontmatter":{},"headers":[{"level":2,"title":"","slug":"","link":"#","children":[]}],"relativePath":"css/css层叠样式表/语法.md"}'),c={name:"css/css层叠样式表/语法.md"},l=e(`<h1 id="语法" tabindex="-1">语法 <a class="header-anchor" href="#语法" aria-hidden="true">#</a></h1><div class="language-css"><button title="Copy Code" class="copy"></button><span class="lang">css</span><pre class="shiki material-palenight"><code><span class="line"><span style="color:#A6ACCD;">css选择器</span><span style="color:#89DDFF;">{</span></span>
-<span class="line"><span style="color:#A6ACCD;">    css属性</span><span style="color:#89DDFF;">:</span><span style="color:#A6ACCD;"> css属性值；</span></span>
-<span class="line"><span style="color:#A6ACCD;">    css属性: css属性值；</span></span>
-<span class="line"><span style="color:#A6ACCD;">    css属性: css属性值；</span></span>
-<span class="line"><span style="color:#89DDFF;">}</span></span>
-<span class="line"></span></code></pre></div><h2 id="" tabindex="-1"><a class="header-anchor" href="#" aria-hidden="true">#</a></h2>`,3),t=[l];function o(p,r,i,_,d,h){return n(),a("div",null,t)}const D=s(c,[["render",o]]);export{A as __pageData,D as default};

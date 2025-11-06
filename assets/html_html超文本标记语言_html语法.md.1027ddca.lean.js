@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as t,a as l}from"./app.0bad1f24.js";const d=JSON.parse('{"title":"html语法","description":"","frontmatter":{},"headers":[],"relativePath":"html/html超文本标记语言/html语法.md"}'),n={name:"html/html超文本标记语言/html语法.md"},o=l("",2),e=[o];function p(c,r,D,_,h,F){return t(),a("div",null,e)}const m=s(n,[["render",p]]);export{d as __pageData,m as default};

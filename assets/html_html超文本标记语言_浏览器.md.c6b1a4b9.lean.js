@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as i,a as d}from"./app.f7b0898d.js";const m=JSON.parse('{"title":"浏览器","description":"","frontmatter":{},"headers":[],"relativePath":"html/html超文本标记语言/浏览器.md"}'),a={name:"html/html超文本标记语言/浏览器.md"},r=d("",5),l=[r];function o(_,s,c,n,h,p){return i(),e("div",null,l)}const k=t(a,[["render",o]]);export{m as __pageData,k as default};

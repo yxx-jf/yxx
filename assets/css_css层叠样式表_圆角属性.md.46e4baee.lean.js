@@ -1,1 +1,0 @@
-import{_ as t,c as d,o as r,a as e}from"./app.a28f8563.js";const u=JSON.parse('{"title":"圆角属性","description":"","frontmatter":{},"headers":[],"relativePath":"css/css层叠样式表/圆角属性.md"}'),a={name:"css/css层叠样式表/圆角属性.md"},o=e("",2),s=[o];function _(p,i,c,n,x,h){return r(),d("div",null,s)}const l=t(a,[["render",_]]);export{u as __pageData,l as default};

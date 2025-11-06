@@ -1,1 +1,0 @@
-import{_ as t,c as d,o as r,a as e}from"./app.0bad1f24.js";const m=JSON.parse('{"title":"css2/3D属性","description":"","frontmatter":{},"headers":[],"relativePath":"css/css层叠样式表/css2-3D属性.md"}'),a={name:"css/css层叠样式表/css2-3D属性.md"},s=e("",3),n=[s];function c(l,o,_,D,i,h){return r(),d("div",null,n)}const x=t(a,[["render",c]]);export{m as __pageData,x as default};

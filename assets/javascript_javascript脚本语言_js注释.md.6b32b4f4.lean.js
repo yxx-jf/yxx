@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a as l}from"./app.0bad1f24.js";const C=JSON.parse('{"title":"js注释","description":"","frontmatter":{},"headers":[],"relativePath":"javascript/javascript脚本语言/js注释.md"}'),e={name:"javascript/javascript脚本语言/js注释.md"},t=l("",2),p=[t];function o(c,i,r,_,d,y){return n(),a("div",null,p)}const j=s(e,[["render",o]]);export{C as __pageData,j as default};

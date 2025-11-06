@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as d,a as o}from"./app.0bad1f24.js";const p=JSON.parse('{"title":"Nodejs下载","description":"","frontmatter":{},"headers":[],"relativePath":"nodejs/node.js/Nodejs下载.md"}'),a={name:"nodejs/node.js/Nodejs下载.md"},n=o("",2),s=[n];function r(l,_,c,h,i,f){return d(),e("div",null,s)}const g=t(a,[["render",r]]);export{p as __pageData,g as default};
