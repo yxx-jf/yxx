@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.a28f8563.js";const y=JSON.parse('{"title":"引入方式","description":"","frontmatter":{},"headers":[],"relativePath":"javascript/javascript脚本语言/引入方式.md"}'),t={name:"javascript/javascript脚本语言/引入方式.md"},p=l("",2),e=[p];function o(c,r,i,_,d,D){return n(),a("div",null,e)}const h=s(t,[["render",o]]);export{y as __pageData,h as default};

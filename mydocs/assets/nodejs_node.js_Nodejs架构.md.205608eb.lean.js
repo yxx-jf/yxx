@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as d,a}from"./app.a28f8563.js";const g=JSON.parse('{"title":"Nodejs架构","description":"","frontmatter":{},"headers":[],"relativePath":"nodejs/node.js/Nodejs架构.md"}'),s={name:"nodejs/node.js/Nodejs架构.md"},l=a("",4),r=[l];function n(o,i,c,_,p,h){return d(),e("div",null,r)}const x=t(s,[["render",n]]);export{g as __pageData,x as default};

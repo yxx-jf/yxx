@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,a as t}from"./app.f7b0898d.js";const u=JSON.parse('{"title":"Nodejs特点","description":"","frontmatter":{},"headers":[],"relativePath":"nodejs/node.js/Nodejs特点.md"}'),a={name:"nodejs/node.js/Nodejs特点.md"},d=t("",3),n=[d];function i(p,_,r,c,l,j){return s(),o("div",null,n)}const h=e(a,[["render",i]]);export{u as __pageData,h as default};

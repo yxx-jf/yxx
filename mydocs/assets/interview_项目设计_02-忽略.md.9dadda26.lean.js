@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,b as o}from"./app.0bad1f24.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview/项目设计/02-忽略.md"}'),s={name:"interview/项目设计/02-忽略.md"},n=o("p",null,"忽略本节",-1),r=[n];function _(c,i,d,p,l,m){return a(),t("div",null,r)}const h=e(s,[["render",_]]);export{u as __pageData,h as default};

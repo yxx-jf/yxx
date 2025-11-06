@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a as o}from"./app.0bad1f24.js";const f=JSON.parse('{"title":"变量内存划分","description":"","frontmatter":{},"headers":[],"relativePath":"javascript/javascript脚本语言/变量内存划分.md"}'),_={name:"javascript/javascript脚本语言/变量内存划分.md"},r=o("",3),s=[r];function c(i,n,p,d,l,h){return a(),e("div",null,s)}const m=t(_,[["render",c]]);export{f as __pageData,m as default};

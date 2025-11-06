@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="cn">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    body {
+      background-color: black;
+    }
+
+    .box {
+      width: 500px;
+      height: 500px;
+      background-color: rgb(64, 205, 224);
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      /* border-radius: 50%; */
+    }
+
+    .round {
+      background-color: #fff;
+      position: absolute;
+      border-radius: 50%;
+    }
+
+    form {
+      text-align: center;
+      margin-top: 50px;
+      color: #fff;
+    }
+
+    input {
+      margin: 0 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="box"></div>
+  <form action="">
+    数量<input type="number" name="" id="num1" value="9">
+    大小<input type="number" name="" id="num2" value="25">
+    距离<input type="number" name="" id="num3" value="100">
+    <input type="submit" value="确定">
+  </form>
+  <script src="./圆圈.js"></script>
+</body>
+
+</html>

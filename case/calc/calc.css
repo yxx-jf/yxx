@@ -1,0 +1,92 @@
+main {
+  width: 100%;
+  background-color: #EAECF3;
+  border-radius: 0.32rem;
+  padding: 0.32rem;
+  box-sizing: border-box;
+  margin-top: 1rem;
+}
+
+/* 屏幕 */
+main .screen {
+  height: 2.58rem;
+  background-color: #fff;
+  border-radius: 0.32rem;
+  text-align: right;
+  padding: 0.32rem;
+}
+
+main .screen h1 {
+  font-size: 0.94rem;
+  margin-top: 0.5rem;
+  height: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+main .screen p {
+  font-size: 0.32rem;
+  opacity: 0.6;
+  margin-top: 0.5rem;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/* 按键 */
+main .key {
+  margin-top: 1rem;
+}
+
+main .key ul {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 0.624rem;
+}
+
+.key_first .icon-tuishuirongzi {
+  font-size: 0.5rem;
+  color: #FFA80E;
+}
+
+.key_first .icon-tuige {
+  font-size: 0.5rem;
+  color: #FFA80E;
+}
+
+main .key li {
+  width: 1.4rem;
+  height: 1.2rem;
+  border-radius: 0.32rem;
+  text-align: center;
+  line-height: 1.2rem;
+  color: #283155;
+  font-size: 0.48rem;
+  background: #fff;
+  box-shadow: inset 1px 1px 1px 0px rgb(255 255 255 / 80%), inset -1px -1px 1px 0px rgb(40 49 85 / 30%), 1px 1px 3px 0px rgb(40 49 85 / 10%);
+  cursor: pointer;
+  user-select: none;
+}
+
+main .key li:active {
+  box-shadow: none;
+  transform: scale(0.95);
+  opacity: 0.8;
+}
+
+main .key li:last-child {
+  background-image: linear-gradient(135deg, #D9DCE8, #E2E4EF);
+}
+
+main .key .key_first li {
+  background-image: linear-gradient(135deg, #D9DCE8, #E2E4EF);
+}
+
+main .key .key_fifth li:first-child {
+  background-image: linear-gradient(135deg, #FFA80E, #FFC355);
+  color: #fff;
+}
+
+main .key .key_fifth li:last-child {
+  background: #4f6ef2;
+  color: #fff;
+}

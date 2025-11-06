@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,a}from"./app.f7b0898d.js";const m=JSON.parse('{"title":"Mysql下载(默认端口 3306)","description":"","frontmatter":{},"headers":[],"relativePath":"mysql/MySQL/下载与安装.md"}'),d={name:"mysql/MySQL/下载与安装.md"},r=a("",9),s=[r];function n(y,o,i,h,_,f){return l(),e("div",null,s)}const p=t(d,[["render",n]]);export{m as __pageData,p as default};
